@@ -7,8 +7,7 @@ import Saludo from './components/Saludo';
 
 const App = () => {
   return (
-    <Saludo></Saludo>
-    
+    <Saludo saludoNuevo="Hello my friend!"></Saludo>
   );
 };
 
